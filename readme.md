@@ -45,5 +45,29 @@ Built using **Python, NLP, and cosine similarity**, the project demonstrates how
 ---
 
 ## 📁 Project Structure
+aiml-project/
+│
+├── data/
+├── src/
+├── models/
+├── main.py
+└── README.md
+---
+
+## 🚀 Getting Started
+
+### 🔹 Create Virtual Environment
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install pandas numpy scikit-learn
+python main.py
+1. Recommend by movie
+2. Recommend by preferences
+Genre → Action
+Language → en
+
+
+
 
 

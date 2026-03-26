@@ -98,3 +98,88 @@ This forms the core logic of the recommendation system.
 
 The project follows a **modular structure**:
 
+### 🔄 Workflow:
+
+
+---
+
+## 🎯 9. Implementation
+
+The system provides two types of recommendations:
+
+### 🔹 1. Movie-Based Recommendation
+- User inputs a movie name  
+- System suggests top 5 similar movies  
+
+### 🔹 2. Preference-Based Recommendation
+- User inputs:
+  - Genre  
+  - Language  
+- System filters and displays matching movies  
+
+---
+
+## 🛠️ 10. Tools & Technologies
+
+- **Python**  
+- **Pandas** (data handling)  
+- **NumPy** (numerical operations)  
+- **Scikit-learn** (ML & NLP)  
+- **AST** (data parsing)  
+
+---
+
+## 📊 11. Results
+
+The system successfully recommends movies based on:
+- Content similarity  
+- User preferences  
+
+Example Output:
+
+---
+
+## 💡 12. Advantages
+
+- Simple and easy to understand  
+- Fast execution  
+- No need for user history  
+- Works well with metadata  
+
+---
+
+## ⚠️ 13. Limitations
+
+- No collaborative filtering  
+- No user personalization  
+- No rating-based recommendations  
+
+---
+
+## 🚀 14. Future Scope
+
+- Develop a web application using Streamlit  
+- Integrate movie posters using APIs  
+- Use advanced NLP techniques (TF-IDF, embeddings)  
+- Add hybrid recommendation system  
+
+---
+
+## 👨‍💻 15. Conclusion
+
+This project demonstrates how machine learning and NLP techniques can be used to build a practical recommendation system.  
+It provides a solid foundation for understanding **content-based filtering** and can be extended into more advanced systems.
+
+---
+
+## ✍️ 16. Author
+
+**Vedansh Raj Singh**
+
+---
+
+<p align="center">
+  ⭐ Thank you for reviewing this project!
+</p>
+
+
